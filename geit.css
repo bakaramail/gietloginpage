@@ -1,0 +1,31 @@
+body{
+    background-color: #0A4A66;
+    font-family: SophosSansRegular , sans-serif;
+}
+
+.heading{
+    font-family: sans-serif;
+    color: #FFE70D;
+    text-align: center;
+    margin-top: 10%;
+}
+
+.sub-heading{
+    color: #93FF33;
+    text-align: center;
+    
+    font-weight: bold;
+}
+
+.white {
+    width: 40%;
+   
+    background-color: white;
+    margin-left: 30%;
+
+}
+
+.mia {
+    width: 10%;
+    height: 10%;
+}
